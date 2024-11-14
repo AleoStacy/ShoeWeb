@@ -1,12 +1,13 @@
-
-import ProductList from './components/ProductList/ProductList'
 import './App.css'
+import About from './components/About'
+import ShoeCategoryPage from './components/ShoeProduct'
 
 function App() {
 
   return (
     <>
-      <ProductList/>
+    <ShoeCategoryPage/>
+    <About/>
     </>
   )
 }
