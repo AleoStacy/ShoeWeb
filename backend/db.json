@@ -1,0 +1,149 @@
+{
+  "name": "Sneaker Shop",
+  "description": "A fantastic place to shop for sneakers.",
+  "products": [
+    { 
+      "id": 1, 
+      "name": "Nike SB Dunks", 
+      "price": "$50", 
+      "image": "/images/SneakerA.jpg"
+    }
+  ,
+  { 
+    "id": 1, 
+    "name": "Nike SB Dunks", 
+    "price": "$50", 
+    "image": "/images/SneakerA.jpg"
+  }
+  ,
+  { 
+    "id": 2,
+   "name": "AirForce 1 Black",
+   "price": "$60",
+   "image": "/images/SneakerB.jpg"
+  },
+  { 
+    "id": 3, 
+    "name": "AirForce 1 White", 
+    "price": "$70", 
+    "image": "/images/SneakerC.jpg"
+  },
+  { 
+    "id": 3, 
+    "name": "AirForce 1 White", 
+    "price": "$70", 
+    "image": "/images/SneakerC.jpg"
+  },
+  { 
+    "id": 4, 
+    "name": "Nike SB Dunks", 
+    "price": "$80", 
+    "image": "/images/SneakerD.jpg"
+  },
+  { 
+    "id": 4,
+    "name": "Nike SB Dunks", 
+    "price": "$80", 
+    "image": "/images/SneakerD.jpg"
+  },
+  { "id": 5, 
+  "name": "Nike SB Dunks", 
+  "price": "$90", 
+  "image": "/images/SneakerE.jpg"
+},
+{ 
+  "id": 6, 
+  "name": "Nike SB Dunks", 
+  "price": "$100", 
+  "image": "/images/SneakerF.jpg"
+},
+  { 
+    "id": 7, 
+    "name": "Nike SB Dunks", 
+    "price": "$110", 
+    "image": "/images/SneakerG.jpg"
+  },
+  { 
+    "id": 8, 
+    "name": "Nike SB Dunks", 
+    "price": "$120", 
+    "image": "/images/SneakerH.jpg"
+  },
+  { 
+    "id": 16, 
+    "name": "AirMax 90's", 
+    "price": "$200", 
+    "image": "/images/SneakerP.jpg"
+  },
+  { 
+    "id": 22, 
+    "name": "New Balance", 
+    "price": "$240", 
+    "image": "/images/SneakerV.jpg"
+  },
+  { 
+    "id": 10, 
+    "name": "Samba XL", 
+    "price": "$140", 
+    "image": "/images/SneakerJ.jpg"
+  },
+  { 
+    "id": 11, 
+    "name": "Dior b30", 
+    "price": "$150", 
+    "image": "/images/SneakerK.jpg"
+  },
+  { 
+    "id": 20, 
+    "name": "Vans Off The Wall", 
+    "price": "$240", 
+    "image": "/images/SneakerT.jpg"
+  },
+  { 
+    "id": 13, 
+    "name": "Nike SB Dunks", 
+    "price": "$170", 
+    "image": "/images/SneakerM.jpg"
+  },
+  { 
+    "id": 14, 
+    "name": "Nike SB Dunks", 
+    "price": "$180", 
+    "image": "/images/SneakerN.jpg"
+  },
+  { 
+    "id": 15, 
+    "name": "Dior b30", 
+    "price": "$190", 
+    "image": "/images/SneakerO.jpg"
+  },
+  { 
+    "id": 17, 
+    "name": "Sambas", 
+    "price": "$210", 
+    "image": "/images/SneakerQ.jpg"
+  },
+  { 
+    "id": 18, 
+    "name": "Puma Jogger", 
+    "price": "$220", 
+    "image": "/images/SneakerR.jpg"
+  },
+  { 
+    "id": 19, 
+    "name": "Vans Off The Wall", 
+    "price": "$230", 
+    "image": "/images/SneakerS.jpg"
+  },
+  { 
+    "id": 21, 
+    "name": "Vans Off The Wall", 
+    "price": "$240", 
+    "image": "/images/SneakerU.jpg"
+  }
+]
+}
+  
+  
+  
+  
