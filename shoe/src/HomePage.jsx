@@ -1,9 +1,17 @@
+<<<<<<< HEAD
+=======
+import Navbar from "./Navbar";
+>>>>>>> refs/remotes/origin/main
 import "./home.css"; 
 
 function HomePage(){
     return (
         <div className="home">
+<<<<<<< HEAD
             {/* <Navbar /> */}
+=======
+            <Navbar />
+>>>>>>> refs/remotes/origin/main
             <div className="main-content">
                 <h1 className="title">Beyond comfort.</h1>
                 <div className="shoe-image">
