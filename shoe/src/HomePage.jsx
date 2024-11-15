@@ -1,10 +1,10 @@
-import Navbar from "../../shoe/src/Navbar";
+// import Navbar from "./Navbar";
 import "./home.css"; 
 
 function HomePage(){
     return (
         <div className="home">
-            <Navbar />
+            {/* <Navbar /> */}
             <div className="main-content">
                 <h1 className="title">Beyond comfort.</h1>
                 <div className="shoe-image">
