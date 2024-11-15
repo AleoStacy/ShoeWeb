@@ -55,7 +55,7 @@ import { Mail, Phone, MapPin } from 'lucide-react';
         
         <form onSubmit={handleSubmit} className="space-y-4">
           <div>
-            <label htmlFor="name" className="block text-sm font-medium text-gray-700">Name</label>
+            <label htmlFor="" className="block text-sm font-medium text-gray-700">Name</label>
             <input
               type="text"
               id="name"
