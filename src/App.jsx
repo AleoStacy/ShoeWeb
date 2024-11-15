@@ -3,6 +3,7 @@ import './App.css'
 import About from './components/About'
 import ShoeCategoryPage from './components/ShoeProduct'
 import Footer from '../ShoeWeb/src/components/Footer'
+import ContactPage from '../ShoeWeb/src/components/ContactPage'
 function App() {
 
   return (
@@ -11,6 +12,7 @@ function App() {
       <ShoeCategoryPage/>
       <About/>
       <Footer/>
+      <ContactPage/>
     </>
   )
 }
